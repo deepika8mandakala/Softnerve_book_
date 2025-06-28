@@ -107,7 +107,6 @@ Follow these steps to set up and run the content enhancement pipeline:
 Make sure to replace your_key_here with your actual API keys
 ```
 export ANTHROPIC_API_KEY=your_key_here
-export OPENAI_API_KEY=your_key_here
 ```
 3. Run the main pipeline:
 This script orchestrates the scraping, AI rewriting, and initial feedback generation.
