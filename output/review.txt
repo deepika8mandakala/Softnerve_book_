@@ -1,0 +1,103 @@
+You are an expert editor. Review the following rewritten passage for clarity, grammar, and flow.
+Suggest improvements, but do not change the meaning.
+
+Text to review:
+"""
+Rewrite the following passage in modern, simplified English:
+
+←
+Book 1
+The Gates of Morning/Book 1
+by 
+Henry De Vere Stacpoole
+Book 1. Chapter 1
+Chapter 2
+→
+3402821
+The Gates of Morning/Book 1
+ — Book 1. Chapter 1
+Henry De Vere Stacpoole
+
+
+
+
+​
+
+
+"The Gates of Morning"
+
+
+CHAPTER I
+
+THE CANOE BUILDER
+
+
+
+
+
+
+D
+ICK standing on a ledge of coral cast his eyes to the South.
+
+Behind him the breakers of the outer sea thundered and the spindrift scattered on the wind; before him stretched an ocean calm as a lake, infinite, blue, and flown about by the fishing gulls—the lagoon of Karolin.
+
+Clipped by its forty-mile ring of coral this great pond was a sea in itself, a sea of storm in heavy winds, a lake of azure, in light airs—and it was his—he who had landed here only yesterday.
+
+Women, children, youths, all the tribe to be seen busy along the beach in the blazing sun, fishing with nets, playing their games or working on the paraka patches, all were his people. His were the canoes drawn up on the sand and his the empty houses where the war canoes had once rested on their rollers.
+
+Then as he cast his eyes from the lagoon to the canoe houses his brow contracted, and, turning his back to the lagoon he stood facing the breakers on the outer beach and the northern sea. Away there,  
+​
+beyond  the sea line, invisible, lay Palm Tree, an island beautiful as a dream, yet swarming with devils.
+
+Little Tari the son of Le Taioi the net maker, sitting on the coral close by, looked up at him. Tari knew little of life, but he knew that all the men of Karolin swe
+
+Rewritten Version:
+
+"The Gates of Morning"
+
+Chapter 1
+
+The Canoe Builder
+
+DICK stood on a ledge of coral, casting his eyes to the South.
+
+Behind him, the outer sea roared with breaking waves, and the spindrift danced on the wind. In front of him stretched an ocean calm as a lake, infinite, blue, and alive with fishing gulls. This great pond, surrounded by forty miles of coral, was a sea within itself. It could be stormy in fierce winds, yet it appeared serene in gentle breezes. This was his home, the place he had arrived only yesterday.
+
+People from all walks of life were busy along the beach, under the scorching sun. Women, children, and youths engaged in fishing with nets, while others played their games or worked on the paraka patches. These were the tribe that Dick belonged to, and they all knew each other. The canoes were drawn up on the sand, and the houses where the war canoes had rested on their rollers were empty, a testament to the past.
+
+As Dick turned his gaze from the lagoon to the canoe houses, his brow furrowed. He knew there was something beyond the sea line, something that he couldn't see. It was an island, Palm Tree. It was like a dream, beautiful and enchanting, but it was also home to swarms of devils.
+
+Little Tari, the son of Le Taioi, the net maker, sat on the coral close by, watching Dick intently. Tari was a young and curious boy who knew very little about life. But he had heard stories of Palm Tree and the dangers that lurked there. He looked up at Dick, his eyes filled with wonder and fear. 
+
+In this chapter, we meet a character named Dick who is on an adventure in a place called Karolin. The chapter is set on the beach, where people are busy with their daily activities. Dick is a newcomer to Karolin, and he is fascinated by the beauty of the lagoon and the people who live there. He also learns about a mysterious island called Palm Tree, which has both allure and danger.
+
+Now, let's dive deeper into the world of Karolin and explore the challenges and opportunities that Dick will encounter on his journey. Keep reading to find out more!
+
+-Exercise: Can you describe the
+"""
+
+Reviewed and improved version:
+
+The text to review is:
+
+"The Gates of Morning"
+
+Chapter 1
+
+The Canoe Builder
+
+DICK stood on a ledge of coral, casting his eyes to the South.
+
+Behind him, the outer sea roared with breaking waves, and the spindrift danced on the wind. In front of him stretched an ocean calm as a lake, infinite, blue, and alive with fishing gulls. This great pond, surrounded by forty miles of coral, was a sea within itself. It could be stormy in fierce winds, yet it appeared serene in gentle breezes. This was his home, the place he had arrived only yesterday.
+
+People from all walks of life were busy along the beach, under the scorching sun. Women, children, and youths engaged in fishing with nets, while others played their games or worked on the paraka patches. These were the tribe that Dick belonging to, and they all knew each other. The canoes were drawn up on the sand, and the houses where the war canoes had rested on their rollers were empty, a testament to the past.
+
+As Dick turned his gaze from the lagoon to the canoe houses, his brow furrowed. He knew there was something beyond the sea line, something that he couldn't see. It was an island, Palm Tree. It was like a dream, beautiful and enchanting, but it was also home to swarms of devils.
+
+Little Tari, the son of Le Taioi, the net maker, sat on the coral close by, watching Dick intently. Tari was a young and curious boy who knew very little about life. But he had heard stories of Palm Tree and the dangers that lurked there. He looked up at Dick, his eyes filled with wonder and fear.
+
+In this chapter, we meet a character named Dick who is on an adventure in a place called Karolin. The chapter is set on the beach, where people are busy with their daily activities. Dick is a newcomer to Karolin, and he is fascinated by the beauty of the lagoon and the people who live there. He also learns about a mysterious island called Palm Tree, which has both allure and danger.
+
+Now, let's dive deeper into the world of Karolin and explore the challenges and opportunities that Dick will encounter on his journey. Keep reading to find out more!
+
+

@@ -1,0 +1,6 @@
+{
+  "raw": 0.5,
+  "spun": 1.0,
+  "final": 2.5,
+  "final_rewrite": 4.0
+}
